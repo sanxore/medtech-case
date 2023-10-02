@@ -135,7 +135,7 @@ WITH ventes_meuble_client AS (
 SELECT
   client_id,
   SUM(prod_price * prod_qty) AS ventes_meuble
-FROM transactions t OUTER JOIN product_nomenclature p ON t.prod.id = p.product_id
+FROM transactions t JOIN product_nomenclature p ON t.prod.id = p.product_id
 WHERE date BETWEEN "2020-01-01" AND "2020-12-31"
 AND product_type = "MEUBLE"
 GROUP BY client_id
