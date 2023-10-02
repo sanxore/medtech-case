@@ -1,0 +1,6 @@
+{
+  "drugs_data_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_drugs.csv",
+  "pubmed_data_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_pubmed.csv",
+  "clinical_trials_data_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_clinical_trials.csv",
+  "output_path": "/home/hamza/PycharmProjects/med-tech/data/transformed_graph.json"
+}

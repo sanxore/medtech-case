@@ -1,0 +1,7 @@
+{
+  "path": "/home/hamza/PycharmProjects/med-tech/data/pubmed.csv",
+  "header": "auto",
+  "text_cleaning": ["title", "journal", "id"],
+  "date_cleaning": ["date"],
+  "output_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_pubmed.csv"
+}

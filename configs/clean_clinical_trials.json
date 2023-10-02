@@ -1,0 +1,7 @@
+{
+  "path": "/home/hamza/PycharmProjects/med-tech/data/clinical_trials.csv",
+  "header": "auto",
+  "text_cleaning": ["scientific_title", "journal", "id"],
+  "date_cleaning": ["date"],
+  "output_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_clinical_trials.csv"
+}

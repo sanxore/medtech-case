@@ -1,0 +1,7 @@
+{
+  "path": "/home/hamza/PycharmProjects/med-tech/data/drugs.csv",
+  "header": "auto",
+  "atc_code_cleaning": ["atccode"],
+  "text_cleaning": ["drug"],
+  "output_path": "/home/hamza/PycharmProjects/med-tech/data/cleaned_drugs.csv"
+}
