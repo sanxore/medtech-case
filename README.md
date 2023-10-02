@@ -41,6 +41,8 @@ The CI is configured in `./github/workflows/linter.yml` file based on pre-commit
   - check-case-conflict
   - black (default conf)
   - isort (normalize import order)
+![image](https://github.com/sanxore/medtech-case/assets/14028677/218ae941-7594-4b32-8ea6-8ee48e86eb48)
+
 
 - Improvements:
   - Add unit tests validation
